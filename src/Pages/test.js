@@ -140,7 +140,7 @@ export default function Test() {
         />
         <input
           type="tel"
-          placeholder="Phone Number "
+          placeholder="PhoneNumber "
           className="form-control"
           onChange={(e) => setPhone(e.target.value)}
         />
